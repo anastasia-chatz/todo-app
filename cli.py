@@ -14,9 +14,6 @@ while True:
 
         todos.append(todo)
         write_todos(todos)
-
-
-
     elif user_action.startswith("show"):
         todos = get_todos()
 
