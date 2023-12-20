@@ -1,5 +1,4 @@
 Buy a burger
-Go to the ball
 Go to the gym
 Print the copied text
 Eat more fruit
