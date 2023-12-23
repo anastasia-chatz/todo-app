@@ -1,3 +1,6 @@
 /venv/
 .idea
 /extra_exercises/
+/dist/
+gui.spec
+cli.py
