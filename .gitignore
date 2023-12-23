@@ -4,3 +4,5 @@
 /dist/
 gui.spec
 cli.py
+/build/
+/__pycache__/
